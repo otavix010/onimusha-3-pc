@@ -1,6 +1,6 @@
 <h1 align="center">Onimusha 3: Demon Siege — port nativo para PC</h1>
 
-<p align="center"><i>Onimusha 3: Demon Siege (PS2, PAL): port nativo para PC por recompilação estática (PS2Recomp). Em desenvolvimento (o port ainda vai começar).</i></p>
+<p align="center"><i>Onimusha 3: Demon Siege (PS2, NTSC-U SLUS-20694): port nativo para PC por recompilação estática (PS2Recomp). Em desenvolvimento (o port ainda vai começar).</i></p>
 
 <p align="center">
   <a href="https://github.com/otavix010/onimusha-3-pc/commits/main"><img alt="Última atualização" src="https://img.shields.io/github/last-commit/otavix010/onimusha-3-pc?label=%C3%BAltima%20atualiza%C3%A7%C3%A3o"></a>
@@ -18,7 +18,7 @@
   <a href="#english-summary">English</a>
 </p>
 
-> **Projeto de fãs, sem fins lucrativos.** *Onimusha* é marca registrada da Capcom; este projeto não tem relação com a Capcom. Este repositório **não contém o jogo**: você vai precisar da **sua própria cópia** do DVD (a versão europeia, **SLES-51914**).
+> **Projeto de fãs, sem fins lucrativos.** *Onimusha* é marca registrada da Capcom; este projeto não tem relação com a Capcom. Este repositório **não contém o jogo**: você vai precisar da **sua própria cópia** do DVD (a versão americana, **SLUS-20694**).
 
 Port nativo para PC por **recompilação estática** com o motor PS2 próprio do projeto, no mesmo esquema dos outros ports de PlayStation 2 do Otavix: o seu PC gera e compila o jogo a partir da sua ISO.
 
@@ -40,7 +40,7 @@ Quando o port começar a rodar, este README ganha os requisitos, o desempenho me
 
 ## O que você vai precisar
 
-- A ISO da versão europeia: Redump **"Onimusha 3 (Europe, Australia) (En,Fr,De,Es,It)"** (SLES-51914).
+- A ISO da versão americana: Redump **"Onimusha 3 - Demon Siege (USA)"** (SLUS-20694).
 - Windows 10/11 de 64 bits, um processador x86-64 (AVX2 ajuda, mas não é obrigatório) e espaço para a geração (alguns GB).
 
 ## Licença e créditos
@@ -51,4 +51,4 @@ Quando o port começar a rodar, este README ganha os requisitos, o desempenho me
 
 ## English summary
 
-A **native PC port** of *Onimusha 3: Demon Siege* (PlayStation 2, 2004) by **static recompilation** with the project's own PS2 engine. **Work in progress: the port has not started yet** — we are first strengthening the shared PS2 base with the first four games. You will need your own copy of the **European** release (SLES-51914, Redump "Onimusha 3 (Europe, Australia) (En,Fr,De,Es,It)") as an .iso. *Onimusha* is a trademark of Capcom; this is a non-commercial fan project, not affiliated with or endorsed by Capcom.
+A **native PC port** of *Onimusha 3: Demon Siege* (PlayStation 2, 2004) by **static recompilation** with the project's own PS2 engine. **Work in progress: the port has not started yet** — we are first strengthening the shared PS2 base with the first four games. You will need your own copy of the **American** release (SLUS-20694, Redump "Onimusha 3 - Demon Siege (USA)") as an .iso. *Onimusha* is a trademark of Capcom; this is a non-commercial fan project, not affiliated with or endorsed by Capcom.
